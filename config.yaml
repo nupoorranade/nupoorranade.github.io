@@ -1,7 +1,7 @@
 baseURL: https://nupoorranade.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Nupoor Ranade"
 
 # Use Hugo modules to add theme
 module:
@@ -37,7 +37,7 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 3
     ordered: false
 
 # At least HTML and JSON are required for the main HTML content and
@@ -94,7 +94,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -110,7 +110,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
