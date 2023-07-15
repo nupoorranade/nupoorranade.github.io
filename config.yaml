@@ -288,8 +288,8 @@ params:
     disclaimer:
       enable: true
 
-    security: 
-    funcs:
-    getenv:
-    - ^HUGO_
-    - ^WC_
+   # security: 
+   # funcs:
+   # getenv:
+   # - ^HUGO_
+   # - ^WC_
