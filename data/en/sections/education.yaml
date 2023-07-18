@@ -10,17 +10,17 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Ph.D in Communication, Rhetoric and Digital Media
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2017-2021
   institution:
-    name: ABC University of Technology
+    name: NORTH CAROLiNA STATE UNIVERSITY
     url: "#"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
+    scale: GPA
+    achieved: 4
     outOf: 4
-  publications: #(optional)
+ # publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
