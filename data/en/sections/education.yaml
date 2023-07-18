@@ -14,7 +14,7 @@ degrees:
   icon: fa-microscope
   timeframe: 2017-2021
   institution:
-    name: NORTH CAROLiNA STATE UNIVERSITY
+    name: NORTH CAROLINA STATE UNIVERSITY
     url: "#"
   grade: #(optional)
     scale: GPA
